@@ -1,0 +1,25 @@
+# ninja log v5
+476	699	7571859833962287	load_texture.exe	bbf3ca8a548235fe
+6	446	7571632281343382	CMakeFiles/hello_rectangle.dir/src/hello_rectangle.cpp.obj	ed96558b2d879000
+411	866	7570786375901168	learn_opengl.exe	c1053638be2c71e1
+1	410	7570786371379612	CMakeFiles/learn_opengl.dir/src/main.cpp.obj	9d808a2ae5bca6df
+5	447	7570969337582956	CMakeFiles/hello_window.dir/src/hello_window.cpp.obj	3839e46bb94ae54
+447	654	7570969339612088	hello_window.exe	7a8a9f68b18cd162
+19	1059	7570786506148665	CMakeFiles/hello_window.dir/src/glad.c.obj	ce120bb55586ecc7
+21	1091	7571854338919985	CMakeFiles/load_texture.dir/src/stb_image.cpp.obj	d301a15b1955baeb
+5	476	7571859831788533	CMakeFiles/load_texture.dir/src/load_texture.cpp.obj	fa63db1a868b3ae0
+24	3907	7571586274715276	CMakeFiles/hello_rectangle.dir/src/glad.c.obj	71813ec2ced95224
+447	660	7571632283430330	hello_rectangle.exe	611ae0a1b91a2b0
+6	462	7571025242919720	CMakeFiles/hello_triangle.dir/src/hello_triangle.cpp.obj	495b215a279fc165
+18	1061	7571021474437167	CMakeFiles/hello_triangle.dir/src/glad.c.obj	1c8fcf97286cad1b
+18	1065	7571852625009117	CMakeFiles/load_texture.dir/src/glad.c.obj	9391922e6a28cec3
+463	673	7571025244963759	hello_triangle.exe	27094159bdd783b4
+21	526	7571953943487097	CMakeFiles/load_texture.dir/src/shader_s.cpp.obj	9c127b9342c6c509
+6	545	7571954272125237	CMakeFiles/load_texture.dir/src/load_texture.cpp.obj	fa63db1a868b3ae0
+545	779	7571954274417296	load_texture.exe	cefed4f72b372496
+5	550	7571959500254062	CMakeFiles/load_texture.dir/src/load_texture.cpp.obj	fa63db1a868b3ae0
+550	776	7571959502454041	load_texture.exe	cefed4f72b372496
+6	537	7571960638761605	CMakeFiles/load_texture.dir/src/load_texture.cpp.obj	fa63db1a868b3ae0
+537	792	7571960641261601	load_texture.exe	cefed4f72b372496
+7	527	7571961074928036	CMakeFiles/load_texture.dir/src/load_texture.cpp.obj	fa63db1a868b3ae0
+527	751	7571961077114039	load_texture.exe	cefed4f72b372496
